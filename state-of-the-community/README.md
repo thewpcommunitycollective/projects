@@ -13,12 +13,13 @@ The WP Open Community Collective is a member-based organization supporting open 
 
 | Path | Contents |
 |---|---|
-| `SURVEY-INSTRUMENT.md` | All survey questions, including response options and per-option counts |
-| `METHODOLOGY.md` | How the survey was run, coded and analysed |
-| `LIMITATIONS.md` | Known issues with the instrument and analysis |
-| `DESIGN-PRINCIPLES.md` | The principles the instrument is built on |
-| `CONTRIBUTING.md` | How to propose changes to the 2027 instrument |
-
+| [`2026/SURVEY-INSTRUMENT.md`](https://github.com/thewpcommunitycollective/projects/blob/144e5b53a122eaffafef33e3a0e0c27e4838d99c/state-of-the-community/2026/LIMITATIONS.md) | All survey questions, including response options and per-option counts  for the 2026 survey |
+| [`2026/METHODOLOGY.md`](https://github.com/thewpcommunitycollective/projects/blob/144e5b53a122eaffafef33e3a0e0c27e4838d99c/state-of-the-community/2026/METHODOLOGY.md) | How the survey was run, coded and analyzed for the 2026 survey |
+| [`2026/LIMITATIONS.md`](https://github.com/thewpcommunitycollective/projects/blob/144e5b53a122eaffafef33e3a0e0c27e4838d99c/state-of-the-community/2026/LIMITATIONS.md) | Known issues with the instrument and analysis  for the 2026 survey |
+| `2026/data/` | Aggregate data for the 2026 survey |
+| [`DESIGN-PRINCIPLES.md`](https://github.com/thewpcommunitycollective/projects/blob/144e5b53a122eaffafef33e3a0e0c27e4838d99c/state-of-the-community/DESIGN-PRINCIPLES.md) | The principles the instrument is built on |
+| `CHANGELOG.md` | Changelog for survey instrument instances |
+| [`LICENSE.md`](https://github.com/thewpcommunitycollective/projects/blob/144e5b53a122eaffafef33e3a0e0c27e4838d99c/state-of-the-community/LICENSE.md) | Specific license details for survey instrument and respondent data, and supporting items |
 
 
 ## Not In This Repository
@@ -26,18 +27,6 @@ The WP Open Community Collective is a member-based organization supporting open 
 **We are not publishing row-level response data.**
 
 In a  small community, the row-level data could be identifying for some respondents. Anonymity is key to the survey's efficacy.
-
-
-## Licence
-
-- **Documentation and report text** — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Reference it, share it, adapt it, build on it, with attribution.
-- **Aggregate data files in `data/`** — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Commercial reuse is fine; attribution is required.
-
-### Using the survey data
-
-1. All uses should **cite and link the survey** so readers can check the methodology and limitations for themselves.
-2. **Do not quote the "AI in WordPress" importance item without reading `LIMITATIONS.md` first.** 
-3. **Share any extensions as open data**.
 
 ## Citation
 
